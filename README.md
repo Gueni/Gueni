@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on **automotive power electronic and system level simulation.
 
-- 🌱 I’m currently learning **python, AI**
+- ![image](https://user-images.githubusercontent.com/20975550/184536664-f76c020a-a861-4899-9e96-ba602c3da52f.png) I’m currently learning **python, AI**
 
-- 👯 I’m looking to collaborate on **GeckoCIRCUIT software**
-
-- 👨‍💻 All of my projects are available at.[https://www.linkedin.com/in/mohamedgueni/details/projects/](https://www.linkedin.com/in/mohamedgueni/details/projects/)
+- 👨‍💻 All of my projects are available at. [https://www.linkedin.com/in/mohamedgueni/details/projects/](https://www.linkedin.com/in/mohamedgueni/details/projects/)
 
 - 📝 I regulary write articles on [https://www.linkedin.com/in/riccardotinivella/](https://www.linkedin.com/in/riccardotinivella/)
 
