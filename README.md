@@ -21,10 +21,7 @@
 - 💬 Ask me about **electronics , python**
 
 - 📩 How to reach me **gueni.mohamed@eniso.u-sousse.tn**
-----
-<div align="center">
- ![snake animation](https://github.com/Gueni/Gueni/blob/output/github-contribution-grid-snake2.svg)
-</div>
+
 
   <br/>
   <p align="center">
@@ -38,4 +35,7 @@
    <a href="https://github.com/gueni"><img alt="gueni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gueni&custom_title=gueni's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
+----
+<div align="center">
  ![snake animation](https://github.com/Gueni/Gueni/blob/output/github-contribution-grid-snake2.svg)
+</div>
