@@ -29,9 +29,9 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gueni&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gueni" height="170px"/>
 	  </p>
 ----
-
+ <p align="center">
 <div>
 
  ![snake animation](https://github.com/Gueni/Gueni/blob/output/github-contribution-grid-snake.svg)
 	
-</div>
+</div></p>
