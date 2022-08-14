@@ -4,8 +4,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohamed-gueni-49bba7145/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/gueni)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/gueni_art/)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gueni" alt="gueni" /> </p>
 
