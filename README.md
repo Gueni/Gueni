@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **automotive power electronic and system level simulation.
 
-- ":python:" I’m currently learning **python, AI**
+- ![python3.x](https://img.shields.io/badge/python-3.x-brightgreen.svg)  I’m currently learning **python, AI**
 
 - 👨‍💻 All of my projects are available at. [https://www.linkedin.com/in/mohamedgueni/details/projects/](https://www.linkedin.com/in/mohamedgueni/details/projects/)
 
