@@ -24,3 +24,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gueni&layout=compact&hide=html" alt="gueni" /></p>
 <p><br /><img align="center" src="https://github-readme-stats.vercel.app/api?username=gueni&show_icons=true" alt="gueni" /></p>
 
+<div align="center">
+  <a href="https://gueni.github.io/gueni/">
+  <img  src="https://github.com/gueni/gueni/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
