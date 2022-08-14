@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MOHAMED GUENI</h1>
 <h3 align="center">A passionate Electronics Engineer and pyhton enthusiast </h3>
-_________________
+__________________________________________________________________________________________________________________
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=gueni" alt="gueni" />
 	<a href="https://github.com/gueni"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -31,3 +31,27 @@ _________________
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+
+## 📊 Github Stats
+
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gueni&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gueni" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/gueni"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gueni&custom_title=gueni's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
