@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Riccardo</h1>
-<h3 align="center">A passionate italian electrical engineer</h3>
+<h1 align="center">Hi 👋, I'm MOHAMED GUENI</h1>
+<h3 align="center">A passionate Electronics Engineer and pyhton enthusiast </h3>
 
-<a href="https://www.buymeacoffee.com/tinix84" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohamed-gueni-49bba7145/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/gueni)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinix84" alt="tinix84" /> </p>
 
