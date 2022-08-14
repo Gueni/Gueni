@@ -5,7 +5,7 @@
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/gueni)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tinix84" alt="tinix84" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gueni" alt="gueni" /> </p>
 
 - 🔭 I’m currently working on [automotive power electronic](www.brusa.biz)
 
