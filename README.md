@@ -7,17 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gueni" alt="gueni" /> </p>
 
-- 🔭 I’m currently working on **automotive power electronic and system level simulation. 🔋⚡
+- I’m currently working on **automotive power electronic and system level simulation. 🔋⚡
 
 - I’m currently learning **python, AI** ![python3.x](https://img.shields.io/badge/python-3.x-brightgreen.svg)  
 
 - 👨‍💻 All of my projects are available at. [https://www.linkedin.com/in/mohamedgueni/details/projects/](https://www.linkedin.com/in/mohamedgueni/details/projects/)
 
-- 📝 I regulary write articles on [https://www.linkedin.com/in/riccardotinivella/](https://www.linkedin.com/in/riccardotinivella/)
+- 📝 I regulary posts on [Python Developers Community](https://www.linkedin.com/groups/25827/)
 
-- 💬 Ask me about **electronic, microwave**
+- 💬 Ask me about **electronics , python**
 
-- 📫 How to reach me **tinix84@gmail.com**
+- 📩 How to reach me **gueni.mohamed@eniso.u-sousse.tn**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
