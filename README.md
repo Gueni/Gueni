@@ -7,15 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gueni" alt="gueni" /> </p>
 
-- 🔭 I’m currently working on [automotive power electronic](www.brusa.biz)
+- 🔭 I’m currently working on **automotive power electronic and system level simulation.
 
 - 🌱 I’m currently learning **python, AI**
 
 - 👯 I’m looking to collaborate on **GeckoCIRCUIT software**
 
-- 🤝 I’m looking for help with **kubernetes**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/riccardotinivella/](https://www.linkedin.com/in/riccardotinivella/)
+- 👨‍💻 All of my projects are available at.[https://www.linkedin.com/in/mohamedgueni/details/projects/](https://www.linkedin.com/in/mohamedgueni/details/projects/)
 
 - 📝 I regulary write articles on [https://www.linkedin.com/in/riccardotinivella/](https://www.linkedin.com/in/riccardotinivella/)
 
