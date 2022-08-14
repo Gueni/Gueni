@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MOHAMED GUENI</h1>
 <h3 align="center">A passionate Electronics Engineer and pyhton enthusiast </h3>
-__________________________________________________________________________________________________________________
+----
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=gueni" alt="gueni" />
 	<a href="https://github.com/gueni"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
