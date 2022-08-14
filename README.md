@@ -24,9 +24,8 @@
 
 
   <br/>
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gueni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gueni&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-  &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gueni&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gueni" height="192px"/>
 	
 ----
