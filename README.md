@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm MOHAMED GUENI</h1>
 <h3 align="center">A passionate Electronics Engineer and pyhton enthusiast </h3>
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohamed-gueni-49bba7145/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/gueni)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gueni" alt="gueni" /> </p>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
 	<a href="https://github.com/gueni"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -12,7 +8,7 @@
 	<a href="https://www.instagram.com/gueni_art/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gueni" alt="gueni" /> </p>
+
 
 - 🔋⚡ I’m currently working on **automotive power electronic & system level simulation**. 
 
