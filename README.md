@@ -27,13 +27,15 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-----
+
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gueni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gueni&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gueni&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gueni" height="192px"/>
+	
 ----
+	
   <br/>
    <a href="https://github.com/gueni"><img alt="gueni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gueni&custom_title=gueni's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
