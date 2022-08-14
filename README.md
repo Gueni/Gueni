@@ -23,9 +23,7 @@
 - 📩 How to reach me **gueni.mohamed@eniso.u-sousse.tn**
 ----
 <div align="center">
-  <a href="https://gueni.github.io/gueni/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+ ![Snake animation](https://github.com/eagrundy/gueni/blob/output/github-contribution-grid-snake.svg)
 </div>
 
   <br/>
