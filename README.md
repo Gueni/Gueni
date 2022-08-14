@@ -14,7 +14,7 @@
 
 - 🐍 I’m currently learning **python, AI**
 
-- 👨‍💻 All of my projects are available at. [https://www.linkedin.com/in/mohamedgueni/details/projects/](https://www.linkedin.com/in/mohamedgueni/details/projects/)
+- 👨‍💻 All of my projects are available at. [Repositories](https://github.com/Gueni?tab=repositories)
 
 - 📝 I regulary posts on [Python Developers Community](https://www.linkedin.com/groups/25827/)
 
