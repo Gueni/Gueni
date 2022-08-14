@@ -29,15 +29,9 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gueni&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gueni" height="192px"/>
 	  </p>
 ----
-	
-  <br/>
-   <a href="https://github.com/gueni"><img alt="gueni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gueni&custom_title=gueni's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 
 <div>
 
  ![snake animation](https://github.com/Gueni/Gueni/blob/output/github-contribution-grid-snake.svg)
 	
- 
 </div>
