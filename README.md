@@ -10,7 +10,7 @@
 
 
 
-- 🔋⚡ I’m currently working on **automotive power electronic & system level simulation**. 
+- 🔋⚡ I’m currently working on **automotive power electronics & system level simulation**. 
 
 - 🐍 I’m currently learning **python, AI**
 
