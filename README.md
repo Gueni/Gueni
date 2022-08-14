@@ -39,5 +39,7 @@
 <div>
 
  ![snake animation](https://github.com/Gueni/Gueni/blob/output/github-contribution-grid-snake2.svg)
+	
+	![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
  
 </div>
