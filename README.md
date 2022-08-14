@@ -30,7 +30,5 @@
 	  </p>
 ----
 <div>
-<p align="center">
  ![snake animation](https://github.com/Gueni/Gueni/blob/output/github-contribution-grid-snake.svg)
-</p>
 </div>
