@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAMED GUENI</h1>
 <h3 align="center">A passionate Electronics Engineer and pyhton enthusiast </h3>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;A passionate Electronics Engineer and pyhton enthusiast;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohamed-gueni-49bba7145/)
 &nbsp;
