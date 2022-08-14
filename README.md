@@ -5,7 +5,7 @@
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/gueni)
 &nbsp;
-[![Instagram](https://i.stack.imgur.com/tskMh.png) Instagram](https://www.instagram.com/gueni_art/)
+[![Instagram](https://i.stack.imgur.com/instagram.png) Instagram](https://www.instagram.com/gueni_art/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gueni" alt="gueni" /> </p>
 
