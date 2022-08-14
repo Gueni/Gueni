@@ -21,8 +21,7 @@
 - 📩 How to reach me **gueni.mohamed@eniso.u-sousse.tn**
 
 
-<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gueni&layout=compact&hide=html" alt="gueni" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gueni&show_icons=true" alt="gueni" /></p>
-<br />
+<p><br /><img align="center" src="https://github-readme-stats.vercel.app/api?username=gueni&show_icons=true" alt="gueni" /></p>
+
