@@ -7,6 +7,8 @@
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) Instagram](https://www.instagram.com/gueni_art/)
 
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gueni" alt="gueni" /> </p>
 
 - 🔋⚡ I’m currently working on **automotive power electronic & system level simulation**. 
