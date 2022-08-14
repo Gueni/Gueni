@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gueni" alt="gueni" /> </p>
 
-- I’m currently working on **automotive power electronic and system level simulation. 🔋⚡
+- I’m currently working on **automotive power electronic & system level simulation**. 🔋⚡
 
 - I’m currently learning **python, AI** ![python3.x](https://img.shields.io/badge/python-3.x-brightgreen.svg)  
 
@@ -18,6 +18,7 @@
 - 💬 Ask me about **electronics , python**
 
 - 📩 How to reach me **gueni.mohamed@eniso.u-sousse.tn**
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gueni&layout=compact&hide=html" alt="gueni" /></p>
