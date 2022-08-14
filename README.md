@@ -3,6 +3,7 @@
 
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=gueni" alt="gueni" />
+	![GitHub User's stars](https://img.shields.io/github/stars/gueni?style=social)
 	<a href="https://github.com/gueni"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/mohamed-gueni-49bba7145/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/gueni_art/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
