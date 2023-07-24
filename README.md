@@ -22,8 +22,7 @@
 - 📩 How to reach me **gueni.mohamed@eniso.u-sousse.tn**
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gueni&langs_count=8)
-----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gueni&layout=compact)----
 
 <div align="center">
 	
