@@ -9,9 +9,7 @@
 
 
 
-- 🔋⚡ I’m currently working on **automotive power electronics & system level simulation**. 
-
-- 🐍 I’m currently learning **python, AI**
+- 🔋⚡ I’m currently working on **automotive power electronics**. 
 
 - 👨‍💻 All of my projects are available at. [Repositories](https://github.com/Gueni?tab=repositories)
 
@@ -19,7 +17,7 @@
 
 - 💬 Ask me about **electronics , python**
 
-- 📩 How to reach me **gueni.mohamed@eniso.u-sousse.tn**
+- 📩 How to reach me **gueni.mohamed@eniso.u-sousse.tn**mohamedgueni@outlook.com**
 
 </br>
 
