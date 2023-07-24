@@ -24,6 +24,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gueni&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+[![gueni's GitHub stats](https://github-readme-stats.vercel.app/api?username=gueni)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
 	
  ![snake animation](https://github.com/Gueni/Gueni/blob/output/github-contribution-grid-snake.svg)
