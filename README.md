@@ -9,7 +9,7 @@
 
 
 
-- 🔋⚡ Currently working on [OBC]([https://github.com/Gueni?tab=repositories](https://github.com/Gueni/OBC)).
+- 🔋⚡ Currently working on [OBC](https://github.com/Gueni/OBC).
 
 - 👨‍💻 All of my projects are available at. [Repositories](https://github.com/Gueni?tab=repositories)
 
