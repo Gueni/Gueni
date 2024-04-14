@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAMED GUENI</h1>
-<h3 align="center">A passionate Electronics Engineer and pyhton enthusiast </h3>
+<h3 align="center">A passionate Electronics Engineer | Python Developer | Automotive Consultant | PCB Designer | HW Electronics Design Engineer </h3>
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=gueni" alt="gueni" />
