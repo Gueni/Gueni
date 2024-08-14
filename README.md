@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Gueni l محمد قاني </h1>
+<h1 align="center">Hi 👋, I'm Mohamed Gueni | محمد قاني </h1>
 <h3 align="center">Automotive Consultant | PCB Designer | HW Electronics Design Engineer | Python Developer </h3>
 
 <p align="center">
