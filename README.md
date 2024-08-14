@@ -24,7 +24,7 @@
 
  <div>
   <a href="https://github.com/eagrundy">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gueni&layout=compact&langs_count=16&theme=dracula"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gueni&layout=compact&langs_count=16&theme=buefy"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gueni&show_icons=true&theme=buefy"/>
 </div>
 </br>
