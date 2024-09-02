@@ -10,7 +10,7 @@
 
 
 
-- 🔋⚡ Currently working on [OBC](https://github.com/Gueni/OBC).
+- 🔋⚡ Currently working on [OBC](https://github.com/Gueni/OBC) and [FASTER](https://github.com/Gueni/FASTER).
 
 - 👨‍💻 All of my projects are available at. [Repositories](https://github.com/Gueni?tab=repositories)
 
