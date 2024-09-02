@@ -18,10 +18,3 @@
 
 - 📩 How to reach me **gueni.mohamed@eniso.u-sousse.tn** or **mohamedgueni@outlook.com**
 
-</br>
-
- <div>
-  <a href="https://github.com/eagrundy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gueni&show_icons=true&theme=buefy"/>
-</div>
-</br>
