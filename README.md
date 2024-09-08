@@ -3,7 +3,7 @@
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=gueni" alt="gueni" />
-	<a href="https://www.linkedin.com/in/mohamedgueni/">
+	
 		<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </p>
