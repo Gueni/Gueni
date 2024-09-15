@@ -15,5 +15,3 @@
 
 - 💬 Ask me about **electronics , python**
 
-- 📩 How to reach me **gueni.mohamed@eniso.u-sousse.tn** or **mohamedgueni@outlook.com**
-
