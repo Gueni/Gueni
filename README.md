@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Mohamed Gueni | محمد قاني</h1>
+<h3 align="center">Electronics Engineer • Automotive Consultant • PCB Designer • Python Developer</h3>
 
-<!--
-**Gueni/Gueni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedgueni&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgueni" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+
+🔧 I’m an experienced **Electronics Engineer** with a deep focus on hardware design and system simulation.  
+🚗 **Automotive Consultant** with real-world experience in designing robust electronics for demanding environments.  
+🧠 Passionate about merging **hardware** and **software** through simulation, automation, and analysis.
+
+---
+
+### 🛠️ Skills & Expertise
+
+- ⚡ **Hardware Design**: Schematic capture, PCB layout, BOM optimization  
+- 🧰 **Tools**: Altium Designer, LTSpice, PLECS  
+- 🐍 **Software**: Python (simulation automation, data analysis, modeling)  
+- 🔬 **Simulation**: Circuit & system-level analysis, performance optimization  
+- 📈 **Data Visualization & Scripting**: Matplotlib, NumPy, pandas  
+
+---
+
+### 🧩 Current Focus
+
+- Developing **automated simulation pipelines** using Python  
+- Enhancing **mixed-signal PCB designs** for automotive systems  
+- Integrating **AI/ML** for predictive system diagnostics  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedgueni&show_icons=true&theme=default" alt="Mohamed's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedgueni&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mgueni/)
+- 📧 mohamedgueni@outlook.com
+
+---
