@@ -17,8 +17,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gueni&show_icons=true&theme=default" alt="Mohamed's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gueni&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gueni&show_icons=true&theme=dark" alt="Mohamed's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gueni&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
