@@ -3,9 +3,6 @@
 
 ---
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=Gueni&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
-<p align = "center">
 	<img src = "https://github.com/Gueni/Gueni/blob/master/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 
