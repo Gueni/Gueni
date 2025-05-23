@@ -2,11 +2,7 @@
 <h3 align="center">Electronics Engineer • Automotive Consultant • PCB Designer • Python Developer</h3>
 
 ---
-<p align = "center">
-	<img src = "https://github.com/Gueni/Gueni/blob/master/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
 
-<div align="center">
 
 
 ### 👋 About Me
