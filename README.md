@@ -18,7 +18,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gueni&show_icons=true&theme=default" alt="Mohamed's GitHub stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gueni&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
