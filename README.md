@@ -27,13 +27,6 @@
 
 ---
 
-### 🧩 Current Focus
-
-- Developing **automated simulation pipelines** using Python  
-- Enhancing **mixed-signal PCB designs** for automotive systems  
-- Integrating **AI/ML** for predictive system diagnostics  
-
----
 
 ### 📈 GitHub Stats
 
