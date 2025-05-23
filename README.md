@@ -3,16 +3,6 @@
 
 ---
 
-
-
-### 👋 About Me
-
-🔧 I’m an experienced **Electronics Engineer** with a deep focus on hardware design and system simulation.  
-🚗 **Automotive Consultant** with real-world experience in designing robust electronics for demanding environments.  
-🧠 Passionate about merging **hardware** and **software** through simulation, automation, and analysis.
-
----
-
 ### 🛠️ Skills & Expertise
 
 - ⚡ **Hardware Design**: Schematic capture, PCB layout, BOM optimization  
