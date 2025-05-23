@@ -6,7 +6,7 @@
 	<img src = "https://komarev.com/ghpvc/?username=Gueni&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/Gueni/Gueni/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 <div align="center">
