@@ -6,8 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gueni&show_icons=true&theme=Material" alt="Mohamed's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gueni&layout=compact&theme=Material" alt="Top Languages" />
 </p>
----
-### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mgueni/)
 - 📧 mohamedgueni@outlook.com
