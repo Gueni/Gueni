@@ -4,7 +4,7 @@
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gueni&show_icons=true&theme=Material" alt="Mohamed's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gueni&layout=compact&theme=Material" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gueni&layout=compact&theme=material" />
   <img src="https://github-profile-trophy.vercel.app/?username=gueni&theme=darkhub&column=3&margin-w=15&margin-h=15" />
 </p>
 
