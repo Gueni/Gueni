@@ -3,16 +3,6 @@
 
 ---
 
-### 🛠️ Skills & Expertise
-
-- ⚡ **Hardware Design**: Schematic capture, PCB layout, BOM optimization  
-- 🧰 **Tools**: Altium Designer, LTSpice, PLECS  
-- 🐍 **Software**: Python (simulation automation, data analysis, modeling)  
-- 🔬 **Simulation**: Circuit & system-level analysis, performance optimization  
-- 📈 **Data Visualization & Scripting**: Matplotlib, NumPy, pandas  
-
----
-
 
 ### 📈 GitHub Stats
 
